@@ -6,7 +6,7 @@
 
 body{
     background-color: #F292DD;
-    background-image: url(./img/wallpaper.png);
+    background-image: url(../img/wallpaper.png);
     display: flex;
     flex-direction: column;
     align-items: center;
